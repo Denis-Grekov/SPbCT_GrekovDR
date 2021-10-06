@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\HP\Desktop\ind zadan\ind zadan\MyForm.h(135,8): warning C4101: arrBit: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ind zadan.vcxproj -> C:\Users\HP\Desktop\ind zadan\x64\Debug\ind zadan.exe
