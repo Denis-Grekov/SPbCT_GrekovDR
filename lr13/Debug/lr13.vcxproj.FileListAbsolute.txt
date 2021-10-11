@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\lr13\Debug\lr13.exe
+C:\Users\HP\source\repos\lr13\Debug\lr13.pdb
