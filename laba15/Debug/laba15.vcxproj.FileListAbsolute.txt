@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\laba15\Debug\laba15.vcxprojAssemblyReference.cache
+C:\Users\HP\source\repos\laba15\Debug\laba15.MyForm.resources
+C:\Users\HP\source\repos\laba15\Debug\laba15.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\laba15\Debug\laba15.exe
+C:\Users\HP\source\repos\laba15\Debug\laba15.pdb
