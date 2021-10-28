@@ -1,0 +1,3 @@
+﻿  lr21.cpp
+C:\Users\HP\source\repos\lr21\lr21.cpp(42,35): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  lr21.vcxproj -> C:\Users\HP\source\repos\lr21\Debug\lr21.exe
