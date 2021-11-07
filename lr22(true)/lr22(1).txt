@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+
+
+#include <fcntl.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main()
+{
+    int pid, x;
+    x = 2;
+    printf("x=%d\n",x);
+    pid = fork();
+    if(pid == 0)
+    printf ("New x=%d\n",x);
+    else if(pid > 0){
+        printf ("old pid = %d\n, x = %d\n",pid,x);
+        sleep(5);
+        wait(pid); }
+        else {
+            perror("Fork error ");
+            return -1;
+        }
+        return 0;
+
+}
+    
