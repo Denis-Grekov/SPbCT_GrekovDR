@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\lr22\Debug\lr22.exe
+C:\Users\HP\source\repos\lr22\Debug\lr22.pdb
